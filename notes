@@ -1,0 +1,46 @@
+============== Sematic Tags ==============
+>headig ---<>h1,h2-----h6</>
+Paragraph---- <p>if you make any mistake there the system will not save it on the live website.
+<pre> if you make any changes like spaces,dots,next line, then it will NOT effect the live main website.
+anchore tag <a>
+image tag <img>
+order list <ol>
+Unorder list <ul> ------------- list <li>
+table ---
+table row <tr>
+table cell <td>
+<thead> t head
+datalist <tbody>
+<form>
+<label>
+<input>user data----for paswords and user names page
+<select>
+<textarea>
+<button>
+spare tag <span>
+<br>
+<hr>
+etc
+========Structural tag==============
+<div>
+<nav>
+<header>
+<footer>
+<hero>
+<section>
+<aside>
+<main>
+etc
+
+============== formating tags ==============
+<b>
+<strong>
+<b>
+<i>
+<em>
+<mark>
+<del>
+<sub>
+<sup> etc
+
+
